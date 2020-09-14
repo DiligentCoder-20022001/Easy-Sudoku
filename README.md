@@ -1,0 +1,2 @@
+# Easy-Sudoku
+Sudoku solver
